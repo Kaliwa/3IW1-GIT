@@ -1,0 +1,1 @@
+print('Système de téléportation !')
