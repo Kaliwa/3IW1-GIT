@@ -1,0 +1,1 @@
+console.log('Nouveau skin féminin ajoutée');
